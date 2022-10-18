@@ -1,3 +1,2 @@
 #!/bin/bash
-#displays contents of working directory
 ls -l
